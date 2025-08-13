@@ -34,7 +34,7 @@ nav > span {
 main {
   color: #FFF;
   padding: 60px 30px;
-  background-image: url(./assets/react.svg);
+  background-image: url(../public/react.svg);
   background-repeat: no-repeat;
   background-position: right 70%;
   background-size: 350px;
